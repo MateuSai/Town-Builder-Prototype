@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Lumberjack House.pxo-200fe248b99af89f6c59216627c438c6.stex"
+
+[deps]
+
+source_file="res://Art/Buildings/Lumberjack House.pxo"
+dest_files=[ "res://.import/Lumberjack House.pxo-200fe248b99af89f6c59216627c438c6.stex" ]
+
+[params]
+

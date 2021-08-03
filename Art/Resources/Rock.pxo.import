@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Rock.pxo-1040358880edb09f4109162046f3c3a4.stex"
+
+[deps]
+
+source_file="res://Art/Resources/Rock.pxo"
+dest_files=[ "res://.import/Rock.pxo-1040358880edb09f4109162046f3c3a4.stex" ]
+
+[params]
+

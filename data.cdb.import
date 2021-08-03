@@ -1,0 +1,14 @@
+[remap]
+
+importer="castledb.importer"
+type="Script"
+path="res://.import/data.cdb-9811981213a8679e7751edb85ab0e0e1.gd"
+
+[deps]
+
+source_file="res://data.cdb"
+dest_files=[ "res://.import/data.cdb-9811981213a8679e7751edb85ab0e0e1.gd" ]
+
+[params]
+
+default=false

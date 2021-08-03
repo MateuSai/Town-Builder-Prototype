@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Lumberjack.pxo-21b466b3c6dd8073011aace94d8aa423.stex"
+
+[deps]
+
+source_file="res://Art/Characters/Lumberjack.pxo"
+dest_files=[ "res://.import/Lumberjack.pxo-21b466b3c6dd8073011aace94d8aa423.stex" ]
+
+[params]
+

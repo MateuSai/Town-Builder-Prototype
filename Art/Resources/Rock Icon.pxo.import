@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Rock Icon.pxo-9cf687f8334f713761df5e4797fa4c00.stex"
+
+[deps]
+
+source_file="res://Art/Resources/Rock Icon.pxo"
+dest_files=[ "res://.import/Rock Icon.pxo-9cf687f8334f713761df5e4797fa4c00.stex" ]
+
+[params]
+

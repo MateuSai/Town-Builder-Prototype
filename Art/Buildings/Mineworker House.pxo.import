@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Mineworker House.pxo-ff8a69c37659076075d82baa8e681bb6.stex"
+
+[deps]
+
+source_file="res://Art/Buildings/Mineworker House.pxo"
+dest_files=[ "res://.import/Mineworker House.pxo-ff8a69c37659076075d82baa8e681bb6.stex" ]
+
+[params]
+

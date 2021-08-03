@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Tree.pxo-0c1fefc75d12bd76ef22f0ca73176d33.stex"
+
+[deps]
+
+source_file="res://Art/Tree.pxo"
+dest_files=[ "res://.import/Tree.pxo-0c1fefc75d12bd76ef22f0ca73176d33.stex" ]
+
+[params]
+

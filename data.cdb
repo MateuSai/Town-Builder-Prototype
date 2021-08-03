@@ -1,0 +1,58 @@
+{
+	"sheets": [
+		{
+			"name": "Buildings",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "13",
+					"name": "scene",
+					"display": null
+				},
+				{
+					"typeStr": "13",
+					"name": "image",
+					"display": null
+				},
+				{
+					"typeStr": "3",
+					"name": "size_x"
+				},
+				{
+					"typeStr": "3",
+					"name": "size_y"
+				},
+				{
+					"typeStr": "13",
+					"name": "unit",
+					"opt": true
+				}
+			],
+			"lines": [
+				{
+					"id": "lumberjack_house",
+					"size_x": 3,
+					"size_y": 1,
+					"image": "Art/Buildings/Lumberjack House.pxo",
+					"unit": "Characters/Workers/Lumberjack/Lumberjack.tscn",
+					"scene": "Buildings/Deploy Buildings/Worker Buildings/WorkerBuilding.tscn"
+				},
+				{
+					"id": "mineworker_house",
+					"image": "Art/Buildings/Mineworker House.pxo",
+					"size_x": 2,
+					"size_y": 1,
+					"unit": "Characters/Workers/Mineworker/Mineworker.tscn",
+					"scene": "Buildings/Deploy Buildings/Worker Buildings/WorkerBuilding.tscn"
+				}
+			],
+			"separators": [],
+			"props": {}
+		}
+	],
+	"customTypes": [],
+	"compress": false
+}

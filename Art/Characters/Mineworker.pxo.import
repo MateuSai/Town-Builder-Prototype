@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Mineworker.pxo-22732aad58ff0b5858b8f9ff453f15bd.stex"
+
+[deps]
+
+source_file="res://Art/Characters/Mineworker.pxo"
+dest_files=[ "res://.import/Mineworker.pxo-22732aad58ff0b5858b8f9ff453f15bd.stex" ]
+
+[params]
+

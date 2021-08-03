@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Wood Icon.pxo-9c35bc92964242187f364ee7368be0db.stex"
+
+[deps]
+
+source_file="res://Art/Resources/Wood Icon.pxo"
+dest_files=[ "res://.import/Wood Icon.pxo-9c35bc92964242187f364ee7368be0db.stex" ]
+
+[params]
+

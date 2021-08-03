@@ -1,0 +1,2 @@
+extends DeployBuilding
+class_name WorkerBuilding

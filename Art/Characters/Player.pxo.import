@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Player.pxo-6d6d27bbef7564c90c930f66ce963ad9.stex"
+
+[deps]
+
+source_file="res://Art/Characters/Player.pxo"
+dest_files=[ "res://.import/Player.pxo-6d6d27bbef7564c90c930f66ce963ad9.stex" ]
+
+[params]
+

@@ -1,0 +1,13 @@
+[remap]
+
+importer="com.technohacker.pixelorama"
+type="StreamTexture"
+path="res://.import/Tileset.pxo-360acc33f1dad980371db5f981518e6a.stex"
+
+[deps]
+
+source_file="res://Art/Tileset.pxo"
+dest_files=[ "res://.import/Tileset.pxo-360acc33f1dad980371db5f981518e6a.stex" ]
+
+[params]
+
